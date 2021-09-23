@@ -70,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # aws
 # aws
+# aws git init git add README.md git commit -m first commit git branch -M main git remote set-url origin https://github.com/ZeynalovT/aws.git git push -u origin main
+# aws
